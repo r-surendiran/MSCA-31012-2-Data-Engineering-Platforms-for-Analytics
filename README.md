@@ -1,7 +1,7 @@
 # MSCA-31012-2-Data-Engineering-Platforms-for-Analytics
 README file:
 
-A Broad Analysis of Cook County During Corona Crisis
+A Broad Analysis of Cook County During COVID-19
 
 Usage
 
